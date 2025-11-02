@@ -1,0 +1,1 @@
+// (Optional) Chat UI helper - integrated in main for simplicity
